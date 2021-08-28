@@ -5,7 +5,9 @@ Git es GitHub demo
 
 ```
 git clone https://github.com/OMMHOA/uj_projekt.git
-Helyezd át a fájljaidat a klónozott könyvtáradba.
+# Helyezd át a fájljaidat a klónozott könyvtáradba.
+git add -A
+git commit -m "Copy existing files"
 git push
 ```
 
